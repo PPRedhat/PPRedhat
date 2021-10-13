@@ -1,3 +1,6 @@
+# Caso No. 3
+
+![Ref](Images/red-hat-logo.png)
 
 # DESCRIPCIÓN DEL CASO 3
 El administrador del departamento de sistemas de uno de los grupos de comercio al detal más reconocido del país necesita configurar un servidor para labores de servicio al cliente con las siguientes características:
