@@ -1,6 +1,6 @@
 # Caso No. 2
 
-![Ref](Images/red-hat-logo-d-sample_2.png)
+![Ref](Images/red-hat-logo.png)
 
 ## DESCRIPCIÓN DEL CASO 2
 
@@ -50,33 +50,20 @@ https://www.katacoda.com/courses/centos/playground
 Para ingresar a esta plataforma, se requiere registro, es rapido, con la limitación que este ambiente únicamente puede durar 10 minutos y en caso que el trabajo sea constante puede durar hasta 1 hora (NO MAS DE ESTO), asi que deberia sacar las evidencias de los resultados durante este tiempo, dicha terminal deja copiar y pegar entre pantallas.
 
 # CALIFICACIONES
-Para calificar hay 2 opciones de envio de resultados.
+Para calificar hay 1 opcion de envio de resultados.
 
 ## Recopilacion de resultados de forma Manual
 En cada uno de los pasos mencionados anteriormente enviar la salida de los comandos que permite ver la evidencia que el punto fue desarrollado, por medio de la herramienta de su preferencia, sea Word con imagenes descriptivas, presentaciones, archivos txt, Etc.
 
-## Recopilacion de resultados de forma Automática
-Se creó un script llamado `caso2.sh` que se encargará de ejecutar los diferentes comandos para validar las evidencias de forma automática, generando una salida en el archivo de texto caso2.txt el cual se le solicitará que envíe como evidencia, exportandolo desde su maquina.
-
-Si su máquina cuenta con internet, puede ejecutar este comando en su máquina Linux
-```
-# wget https://raw.githubusercontent.com/jmanuelcalvo/RHEL-HandsOn/main/caso2.sh
-```
-y luego ejecutarlo como usuario root sobre su máquina para la calificación
-```
-# sh caso2.sh 
-```
 
 
-# NOTAS
-*NOTA 1:* Este script de validación debe ejecutarse como usuario root
-
-*NOTA 2:* Tenga en cuenta que este script busca los nombres exactos de los archivos solicitados
-
-*NOTA 3:* Intente **NO** compartir el archivo de resultado con sus compañeros, la idea es que pueda validar sus conocimientos
+# NOTA
+*NOTA 1:* Intente **NO** compartir el archivo de resultado con sus compañeros, la idea es que pueda validar sus conocimientos
 
 
 [Caso No. 1](Caso1.md) 
+
+[Caso No. 3](Caso3.md)
 
 [Volver](README.md)
 
