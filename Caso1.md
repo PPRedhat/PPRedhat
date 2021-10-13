@@ -1,6 +1,6 @@
 # CASO No. 1
 
-![Ref](Images/red-hat-logo-d-sample_2.png)
+![Ref](Images/red-hat-logo.png)
 
 
 ## DESCRIPCIÓN DEL CASO 1
