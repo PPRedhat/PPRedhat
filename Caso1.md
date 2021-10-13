@@ -66,6 +66,8 @@ En cada uno de los pasos mencionados anteriormente enviar la salida de los coman
 
 
 
-[Caso No. 2](Caso2.md) 
+[Caso No. 2](Caso2.md)
+
 [Caso No. 3](Caso3.md) 
+
 [Volver](README.md) 
