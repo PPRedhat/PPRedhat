@@ -38,3 +38,9 @@ Para calificar hay 1 opcion de envio de resultados.
 
 ## Recopilacion de resultados de forma Manual
 En cada uno de los pasos mencionados anteriormente enviar la salida de los comandos que permite ver la evidencia que el punto fue desarrollado, por medio de la herramienta de su preferencia, sea Word con imagenes descriptivas, presentaciones, archivos txt, Etc.
+
+[Caso No. 1](Caso1.md)
+
+[Caso No. 2](Caso2.md) 
+
+[Volver](README.md)
