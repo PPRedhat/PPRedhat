@@ -9,7 +9,7 @@ Repositorio con una serie de ejercicios para poner en practica los conocimientos
 ## Descripción del curso
 Es el primero de dos cursos que abarcan las tareas básicas de administración de sistemas necesarias para gestionar los servidores de Red Hat Enterprise Linux
 
-Ofrece las habilidades indispensables para administrar Linux®, ya que cubre los conceptos básicos y las tareas principales de este sistema. Aprenderá a aplicar los conceptos de la línea de comandos y las herramientas de nivel empresarial, lo cual será el comienzo del proceso que lo llevará a convertirse en administrador de sistemas Linux a tiempo completo. Esta capacitación continúa con Red Hat System Administration II (RH134).
+Ofrece las habilidades indispensables para administrar Linux®, ya que cubre los conceptos básicos y las tareas principales de este sistema. Aprenderá a aplicar los conceptos de la línea de comandos y las herramientas de nivel empresarial, lo cual será el comienzo del proceso que lo llevará a convertirse en administrador de sistemas Linux a tiempo completo. Esta capacitación continúa con Red Hat System Administration II (RH124).
 
 *El curso se basa en Red Hat® Enterprise Linux 8.2.*
 
