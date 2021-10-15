@@ -4,7 +4,7 @@
 
 ## DESCRIPCIÓN DEL CASO 2
 
-La empresa líder en logística de transporte de mercancía del país se encuentra implementando un servidor para almacenar todas las guías de servicio en un servidor de archivos compartido para ser más ágil en sus procesos. Para esto contrataron una compañía especializada en sistemas de información que implementaran un software encargado de integrar las operaciones de recolección, despacho y reparto, el cual se ejecuta sobre sistemas operativos Linux como Red Hat Enterprise Linux. El proveedor del software solicita que, previo a la instalación del producto, se entregue una maquina lista, ya que ellos únicamente instalarán el software.
+Una de las empresas líderes en logística de transporte de mercancía del país se encuentra implementando un servidor de archivos compartidos para almacenar todas las guías de servicio y así ser más ágil en sus procesos. Para lo anterior contrataron una compañía especializada en sistemas de información que implementará un software encargado de integrar las operaciones de recolección, despacho y reparto, el cual se ejecuta sobre sistemas operativos Linux como Red Hat Enterprise Linux. El proveedor del software solicita a NEXSYS que, previo a la instalación del producto, se entregue una maquina lista, ya que ellos únicamente instalarán el software.
 
 ## ACTIVIDADES A REALIZAR
 
