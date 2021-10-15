@@ -21,15 +21,22 @@ el directorio mencionado, realice modificaciones en su contenido y demuestre com
 7.	Muestre los procesos del sistema con información detallada de los mismos.
 8.	Con el fin de monitorear la memoria libre y usada del sistema, se necesita una línea de comandos que al ejecutarla muestre en pantalla la siguiente información:
 a.	La memoria libre y usada por el sistema
+
 b.	Espere 5 segundos
+
 c.	Mostrar el directorio actual
+
 d.	Espere 5 segundos
+
 e.	Limpiar la pantalla.
+
 9.	Establecer los permisos por defecto del archivo de texto “Ventas” y del directorio “Finanzas” a solo r--r--r-- (es decir, solo la lectura para el propietario, grupo y los otros).
 10.	La empresa tendrá un usuario importante llamado sysadmin, para el cual se requiere lo siguiente:
 
-a.	Cambiar la fecha de expiración de la cuenta al día 2022-01-28 al usuario llamado sysadmin	
+a.	Cambiar la fecha de expiración de la cuenta al día 2022-01-28 al usuario llamado sysadmin
+
 b.	Establecer en 45 días el cambio de contraseña para el usuario sysadmin, es decir, podrá tener la misma contraseña 45 días.
+
 c.	Establecer la advertencia de caducidad de contraseña para avisar al usuario sysadmin durante 10 días antes de que caduque su contraseña
 
 
