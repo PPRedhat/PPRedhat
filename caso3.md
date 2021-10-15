@@ -20,6 +20,7 @@ el directorio mencionado, realice modificaciones en su contenido y demuestre com
 6.	Por medio de la generación de una llave pública y privada, demuestre el ingreso sin solicitud de credenciales de una máquina a otra.
 7.	Muestre los procesos del sistema con información detallada de los mismos.
 8.	Con el fin de monitorear la memoria libre y usada del sistema, se necesita una línea de comandos que al ejecutarla muestre en pantalla la siguiente información:
+
 a.	La memoria libre y usada por el sistema
 
 b.	Espere 5 segundos
