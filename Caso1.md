@@ -5,7 +5,7 @@
 
 ## DESCRIPCIÓN DEL CASO 1
 
-Una reconocida entidad financiera de la ciudad de Medellín requiere implementar una solución de base de datos en un cluster de 3 nodos sobre un sistema operativo Red Hat Enterprise Linux. Esta actividad se debe realizar múltiples veces y antes de ser llevada a producción será probada y validada por varios equipos de trabajo (entre ellos el de seguridad). De acuerdo con lo anterior, se informa que previamente a dicha implementación productiva, se requiere contar con un servidor que sirva como plantilla y que cumpla con los siguientes requisitos para la entrega.
+NEXSYS tiene como cliente a una reconocida entidad financiera de la ciudad de Medellín requiere implementar una solución de base de datos en un cluster de 3 nodos sobre un sistema operativo Red Hat Enterprise Linux. Esta actividad se debe realizar múltiples veces y antes de ser llevada a producción será probada y validada por varios equipos de trabajo (entre ellos el de seguridad). De acuerdo con lo anterior, se informa que previamente a dicha implementación productiva, se requiere contar con un servidor que sirva como plantilla y que cumpla con los siguientes requisitos para la entrega.
 
 ## ACTIVIDADES A REALIZAR
 
@@ -26,8 +26,6 @@ Una reconocida entidad financiera de la ciudad de Medellín requiere implementar
 15. Busque en el el archivo de log /var/log/message o /var/log/secure las **autenticaciones** exitosos y fallidos al sistema operativo y guarde el resultado como logins.txt en la carpeta /compartida/
 16. La zona horaria debe ser America/Bogota
 17. Todas las configuraciones deben sobrevivir a un reinicio
-18. Envie el archivo kickstar como plantilla 
-
 
 
 
