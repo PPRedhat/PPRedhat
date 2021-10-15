@@ -3,18 +3,34 @@
 ![Ref](Images/red-hat-logo.png)
 
 # DESCRIPCIÓN DEL CASO 3
-El administrador del departamento de sistemas de uno de los grupos de comercio al detal más reconocido del país necesita configurar un servidor para labores de servicio al cliente con las siguientes características:
+El administrador del departamento de sistemas de uno de los grupos de comercio al detal más reconocido del país comunica a la mesa de ayuda de NEXSYS el siguiente requerimiento:
 
 ## ACTIVIDADES A REALIZAR
-1. Debe ser una instalación nueva. (iniciando desde 0)
-2. Debe estar completamente actualizado hasta la fecha (no debe tener actualizaciones pendientes)
-3. Debe tener Red configurada con: (Direccion IP, Mascara, Puerta de enlace, DNS)
-4. Deben existir 2 perfiles de usuario: user1 y user2
-5. Cada usuario debe tener una contraseña segura
-6. El user1 no puede navegar en URL públicas
-7. El user2 puede navegar en URL públicas
-8. El servicio de SSH NO debe permitir conexiones del usuario root
-9. Cree una tarea crontab que busque los archivos de carpetas /tmp y /var/tmp y los borre cada 2 minutos.
+1.	Se necesita efectuar el procedimiento de suscripción del sistema operativo Red Hat Enterprise Linux 8 del servidor principal.
+2.	La empresa necesita añadir un banner a la página de inicio de sesión en la consola web de RHEL con el mensaje:
+
+ “Welcome. All connections are monitored and recorded. Please, ¡disconnect IMMEDIATELY if you are not an authorized user!”
+
+3.	El departamento de Tecnología tiene un directorio llamado “info_tech” en el cual se encuentra información importante que debe estar actualizada. Descargue del siguiente enlace: 
+https://drive.google.com/file/d/18t21wcU01ChE1h7JFM57it2xconDLfrK/view?usp=sharing
+el directorio mencionado, realice modificaciones en su contenido y demuestre como realizaría de forma remota la sincronización de los cambios realizados usando el comando “rsync”.
+
+4.	Se necesita que el envío de ficheros entre los miembros del equipo de trabajo se realice con cifrado hashing. Indique el procedimiento correcto para realizar este envío y verificar la integridad de los archivos.
+5.	Se requiere encriptar con cifrado simétrico un directorio llamado “Datos”.
+6.	Por medio de la generación de una llave pública y privada, demuestre el ingreso sin solicitud de credenciales de una máquina a otra.
+7.	Muestre los procesos del sistema con información detallada de los mismos.
+8.	Con el fin de monitorear la memoria libre y usada del sistema, se necesita una línea de comandos que al ejecutarla muestre en pantalla la siguiente información:
+a.	La memoria libre y usada por el sistema
+b.	Espere 5 segundos
+c.	Mostrar el directorio actual
+d.	Espere 5 segundos
+e.	Limpiar la pantalla.
+9.	Establecer los permisos por defecto del archivo de texto “Ventas” y del directorio “Finanzas” a solo r--r--r-- (es decir, solo la lectura para el propietario, grupo y los otros).
+10.	La empresa tendrá un usuario importante llamado sysadmin, para el cual se requiere lo siguiente:
+
+a.	Cambiar la fecha de expiración de la cuenta al día 2022-01-28 al usuario llamado sysadmin	
+b.	Establecer en 45 días el cambio de contraseña para el usuario sysadmin, es decir, podrá tener la misma contraseña 45 días.
+c.	Establecer la advertencia de caducidad de contraseña para avisar al usuario sysadmin durante 10 días antes de que caduque su contraseña
 
 
 
