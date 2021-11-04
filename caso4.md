@@ -1,10 +1,14 @@
-DESCRIPCIÓN DEL CASO 4
+# Caso No. 3
+
+![Ref](Images/red-hat-logo.png)
+
+# DESCRIPCIÓN DEL CASO 4
 
 Una empresa del sector automotriz perteneciente al portafolio de clientes de Nexsys requiere implementar una infraestructura de TI. 
 
 A continuación, se relacionan los retos a resolver para dicho propósito:
 
-ACTIVIDADES A REALIZAR
+# ACTIVIDADES A REALIZAR
 
 1.	La información importante de la empresa se encuentra en máquinas locales, los procedimientos no están documentados y su base de datos se encuentra en archivos de Excel, actualmente buscan implementar buenas prácticas en este sentido y desean que su sistema utilice el entorno GNU/Linux. Exponga mediante argumentos porque debería utilizar estas distribuciones y qué beneficios obtendría a nivel tecnológico.
 
