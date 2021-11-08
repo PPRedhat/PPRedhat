@@ -21,9 +21,9 @@ inodo. (señalar este dato en la evidencia fotográfica).
 6. Pasar las siguientes direcciones IPV6 del formato comprimido al preferido
 (extendido):
 
-Formato comprimido utilizando
+Formato comprimido utilizando::
 
-- ::::
+- ::
 - ::0001
 - 2001:410:: 1234:FB00:1400:5000:45FF
 - 3FFE:BOO:C18:1::AB34:2
