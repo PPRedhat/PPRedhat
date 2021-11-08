@@ -1,9 +1,16 @@
-- DESCRIPCIÓN DEL CASO 4
+# CASO No. 5
+
+![Ref](Images/red-hat-logo.png)
+
+
+## DESCRIPCIÓN DEL CASO 5
 
 La empresa Nexsys se encuentra configurando un servidor de respaldo para uno de sus
 clientes en Colombia y por tanto, necesita que el Administrador del sistema pruebe en el
 ambiente de pre-producción las siguientes actividades en la nueva máquina:
-ACTIVIDADES A REALIZAR
+
+# ACTIVIDADES A REALIZAR
+
 1. Explique ¿Por qué decimos que &quot;Linux&quot; es solamente el kernel del sistema operativo
 que utilizamos?
 2. Liste todos los ficheros del directorio HOME de la máquina mostrando su número de
